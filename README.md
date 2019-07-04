@@ -28,7 +28,7 @@ The following describes what each project consisted of
 * technical SEO audit
     - improvie sites' HTML: title-, meta- and alt-tags
 * off-site SEO:
-    - perform a backling audit using the Moz OpenSite Explorer Tool
+    - perform a backlink audit using the Moz OpenSite Explorer Tool
     - link-building: using the SEMRush tool, identify relevant, high traffic sites to gain backlinks
 * performance testsing
     - perform site-speed and mobile-friendliness tests, explain why each is important
@@ -41,7 +41,7 @@ The following describes what each project consisted of
 
 ## Project 6 - Evaluate a Display Campaign
 
-** Evaluate a display campaign in terms of 
+* Evaluate a display campaign in terms of 
     - ROI
     - which Ad performed best
     - which audience performed best
